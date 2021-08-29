@@ -6,6 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Hi, my name is Abhi and this is my first work in CS193!
 
+# Abhi's First CS193 Homework
+- I like coding!
+- Excited to learn about how to use github
+- Ready to learn about the terminal
+- Love the TA's and my peers
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
